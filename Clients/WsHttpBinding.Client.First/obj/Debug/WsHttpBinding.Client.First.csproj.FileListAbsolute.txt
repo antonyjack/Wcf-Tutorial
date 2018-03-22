@@ -1,0 +1,7 @@
+D:\Antony\VS2017 Projects\WCF\WcfProjects\Clients\WsHttpBinding.Client.First\bin\Debug\WsHttpBinding.Client.First.exe.config
+D:\Antony\VS2017 Projects\WCF\WcfProjects\Clients\WsHttpBinding.Client.First\bin\Debug\WsHttpBinding.Client.First.exe
+D:\Antony\VS2017 Projects\WCF\WcfProjects\Clients\WsHttpBinding.Client.First\bin\Debug\WsHttpBinding.Client.First.pdb
+D:\Antony\VS2017 Projects\WCF\WcfProjects\Clients\WsHttpBinding.Client.First\obj\Debug\WsHttpBinding.Client.First.csprojResolveAssemblyReference.cache
+D:\Antony\VS2017 Projects\WCF\WcfProjects\Clients\WsHttpBinding.Client.First\obj\Debug\WsHttpBinding.Client.First.csproj.CoreCompileInputs.cache
+D:\Antony\VS2017 Projects\WCF\WcfProjects\Clients\WsHttpBinding.Client.First\obj\Debug\WsHttpBinding.Client.First.exe
+D:\Antony\VS2017 Projects\WCF\WcfProjects\Clients\WsHttpBinding.Client.First\obj\Debug\WsHttpBinding.Client.First.pdb

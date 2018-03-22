@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsHttpBinding.First", "WsHttpBinding.First\WsHttpBinding.First.csproj", "{2BB6A801-A428-4375-86E7-4CDA86CE4D6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{9090BA56-10EE-4DA8-97A3-17D64E2ACD5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsHttpBinding.Client.First", "Clients\WsHttpBinding.Client.First\WsHttpBinding.Client.First.csproj", "{DC12B5B5-D23A-449F-8630-CF1143DB5CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB6A801-A428-4375-86E7-4CDA86CE4D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB6A801-A428-4375-86E7-4CDA86CE4D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB6A801-A428-4375-86E7-4CDA86CE4D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB6A801-A428-4375-86E7-4CDA86CE4D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC12B5B5-D23A-449F-8630-CF1143DB5CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC12B5B5-D23A-449F-8630-CF1143DB5CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC12B5B5-D23A-449F-8630-CF1143DB5CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC12B5B5-D23A-449F-8630-CF1143DB5CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DC12B5B5-D23A-449F-8630-CF1143DB5CDE} = {9090BA56-10EE-4DA8-97A3-17D64E2ACD5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A702C6FA-1B2E-4FAE-B853-F2BAF6F6416C}
+	EndGlobalSection
+EndGlobal
